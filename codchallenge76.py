@@ -1,3 +1,5 @@
+# Creates a random pokeball mosaic
+
 from graphics import *
 from random import *
 from pokeball import *
